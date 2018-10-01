@@ -15,7 +15,7 @@ It provides:
   
 ## Usage ##
 
-`R` functions are directly applicable. 
+`R` functions are directly applicable. `R`-packages [`funData`](https://CRAN.R-project.org/package=funData) and [`MFPCA`](https://CRAN.R-project.org/package=MFPCA) need to be installed.
 
 
 ## Bug reports ##
